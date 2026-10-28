@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+next-env.d.ts
+
+# TypeScript / test caches
+*.tsbuildinfo
+coverage/
+
+# environment files (keep .env.example)
+.env
+.env*.local
+
+# logs
+*.log
+npm-debug.log*
+
+# OS / editor files
+.DS_Store
+._*
+Thumbs.db
+
+# local-only artifacts
+_to_delete/
+*.zip

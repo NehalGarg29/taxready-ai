@@ -1,0 +1,59 @@
+{
+  "client": {
+    "clientId": "CL-1004",
+    "name": "Jordan Lee",
+    "taxYear": 2025,
+    "filingStatus": "head_of_household",
+    "reportedIncomeSources": [
+      "wages",
+      "contractor"
+    ]
+  },
+  "questionnaire": {
+    "reportedWages": "79500.50",
+    "reportedInterestIncome": "0.00",
+    "reportedContractorIncome": "12000.00",
+    "indicators": {
+      "hadW2Employment": true,
+      "receivedInterestIncome": false,
+      "performedContractWork": true
+    }
+  },
+  "documents": [
+    {
+      "documentId": "DOC-JL-W2-01",
+      "documentType": "W-2",
+      "taxYear": 2025,
+      "amount": "48000.00",
+      "sourceFile": "jordan_lee_w2_cedar_2025.pdf"
+    },
+    {
+      "documentId": "DOC-JL-W2-02",
+      "documentType": "W-2",
+      "taxYear": 2025,
+      "amount": "31500.50",
+      "sourceFile": "jordan_lee_w2_lumen_2025.pdf"
+    },
+    {
+      "documentId": "DOC-JL-NEC-01",
+      "documentType": "1099-NEC",
+      "taxYear": 2025,
+      "amount": "9800.00",
+      "sourceFile": "jordan_lee_1099nec_studio_2025.pdf"
+    },
+    {
+      "documentId": "DOC-JL-NEC-02",
+      "documentType": "1099-NEC",
+      "taxYear": 2024,
+      "amount": "2200.00",
+      "sourceFile": "jordan_lee_1099nec_studio_2024.pdf"
+    },
+    {
+      "documentId": "DOC-JL-DIV-01",
+      "documentType": "1099-DIV",
+      "taxYear": 2025,
+      "amount": "340.12",
+      "sourceFile": "jordan_lee_1099div_2025.pdf"
+    }
+  ]
+}

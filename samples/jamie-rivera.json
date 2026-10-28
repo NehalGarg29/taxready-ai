@@ -1,0 +1,40 @@
+{
+  "client": {
+    "clientId": "CL-1002",
+    "name": "Jamie Rivera",
+    "taxYear": 2025,
+    "filingStatus": "married_filing_jointly",
+    "reportedIncomeSources": [
+      "wages",
+      "interest"
+    ]
+  },
+  "questionnaire": {
+    "reportedWages": "64250.00",
+    "reportedInterestIncome": "182.37",
+    "reportedContractorIncome": "0.00",
+    "indicators": {
+      "hadW2Employment": true,
+      "receivedInterestIncome": true,
+      "performedContractWork": false
+    }
+  },
+  "documents": [
+    {
+      "documentId": "DOC-JR-W2-01",
+      "documentType": "W-2",
+      "taxYear": 2025,
+      "amount": "64250.00",
+      "sourceFile": "jamie_rivera_w2_brightpath_2025.pdf",
+      "payerName": "BrightPath Clinics (synthetic)"
+    },
+    {
+      "documentId": "DOC-JR-INT-01",
+      "documentType": "1099-INT",
+      "taxYear": 2025,
+      "amount": "182.37",
+      "sourceFile": "jamie_rivera_1099int_harborcu_2025.pdf",
+      "payerName": "Harbor Credit Union (synthetic)"
+    }
+  ]
+}

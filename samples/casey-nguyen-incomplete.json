@@ -1,0 +1,17 @@
+{
+  "client": {
+    "clientId": "CL-1005",
+    "name": "Casey Nguyen",
+    "taxYear": 2025,
+    "reportedIncomeSources": [
+      "wages"
+    ]
+  },
+  "questionnaire": {
+    "reportedWages": "58000.00",
+    "indicators": {
+      "hadW2Employment": true
+    }
+  },
+  "documents": []
+}
